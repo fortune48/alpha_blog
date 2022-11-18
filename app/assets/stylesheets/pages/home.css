@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url(for_alpha_blog.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+}
+
+
